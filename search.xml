@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hello hexo</title>
+    <url>/2025/01/03/hello-hexo/</url>
+    <content><![CDATA[<p>hello hexo</p>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/01/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2025-1-5</title>
+    <url>/2025/01/05/2025-1-5/</url>
+    <content><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>十二点起床,煮了妈妈买的南昌拌粉,和妹妹一致认同,粉好吃</p>
+<p>把欠的字帖和单词写了</p>
+<p>晚餐把肉切了与豆豉鲢鱼、茄子一起焖了 好吃</p>
+<p>爸妈带了卤牛肚回来 味道不错 口感也不是很韧</p>
+<p>安装的rust的gnu居然不可用 卸了去安装mvsw版本的 要下vs 还要下win11的sdk</p>
+<p>好大的内存 上网发行1.78版本开始使用win11sdk </p>
+<p>rust这东西跟nm iphone一样 缺德</p>
+<p>最后是gnu版本下回来 再去下了13版本的mingw64 把之前的8版本删除了</p>
+<p>顺利编译运行</p>
+<p>出去跑步了</p>
+<p>跑2min休4min 有效恢复几个月没锻炼丢失的心肺能力</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-1-6</title>
+    <url>/2025/01/06/2025-1-6/</url>
+    <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
+<p>被清华源屏蔽了 无语死了 pip下不了东西<br>直接用多个镜像 哼哼</p>
+<p>学了一下午rust<br>rust的宏有点长 输入的方式有点复杂<br>控制语句比其他语言多了个match、loop<br>函数不用写return很简洁	<br>debug枚举和结构体需要额外写#[derive(Debug)]<br>rust没有class 结构体和方法单独设置<br>self有许多应用 这是python吗</p>
+<p>晚餐点了华莱士 两堡加美年达 八块<br>爽吃 还有带回来的 香芋西米露 恰饱饱</p>
+<p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
+<p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
+<p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-1-7</title>
+    <url>/2025/01/07/2025-1-7/</url>
+    <content><![CDATA[<p>九点起的床 今天天津省考公布成绩<br>果不其然 没进面 名单有33页 报名有五百多来着 两百多人没来啊<br>网站一直打不开<br>发现网站是index.do结尾<br>上网搜索起码十几年前的技术 无语了 怪不得每次都炸服</p>
+<p>中午将牛肚和了两个蘑菇切了了两个鸡蛋配米粉<br>今天腊八吃腊八蒜 爸腌制的成腊八蒜了 没什么味道</p>
+<p>rust入门了 教程太搞了 教到泛型就没课了<br>以后还需要深入学习</p>
+<p>撑不住了午睡 睡了两个半钟<br>有点爽但是头有点昏</p>
+<p>get到一个新网站 <a class="link"   href="https://aicolors.co/" >https://aicolors.co/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br>这网站的配色方案不错 就是ai味太浓了</p>
+<p>晚餐吃的牛肚 终于吃完了</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-1-8</title>
+    <url>/2025/01/08/2025-1-8/</url>
+    <content><![CDATA[<p>失眠了 亢奋的很 就是睡不着<br>闭眼到三点快四点才睡着了</p>
+<p>炫和🦌call了几个电话过来<br>终于十二点前call醒了</p>
+<p>中午去吃的自助 叫老友作煮<br>说实话一般般 还卖七十多一位 有点亏了<br>只有水果让我感到满意 小番茄哈密瓜和橙子 都挺甜的</p>
+<p>吃完去逛了会吾悦广场 消消食</p>
+<p>回来去鹿家坐了会 玩了下炫的歌查德driver<br>灯效不错 音效还行 卡要抽属实抽象</p>
+<p>回家就开始有点头晕了 疑似中招了<br>其实感觉是着凉了 出门穿的不是很多</p>
+<p>晚餐 蘑菇炒猪肉 炒生菜<br>今晚的菜味道差点 可能是状态不佳</p>
+<p>早点歇了<br>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+</search>
