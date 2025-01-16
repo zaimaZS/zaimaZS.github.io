@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2025-01-05.</title>
+    <url>/2025/01/05/2025-01-05/</url>
+    <content><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>十二点起床,煮了妈妈买的南昌拌粉,和妹妹一致认同,粉好吃</p>
+<p>把欠的字帖和单词写了</p>
+<p>晚餐把肉切了与豆豉鲢鱼、茄子一起焖了 好吃</p>
+<p>爸妈带了卤牛肚回来 味道不错 口感也不是很韧</p>
+<p>安装的rust的gnu居然不可用 卸了去安装mvsw版本的 要下vs 还要下win11的sdk</p>
+<p>好大的内存 上网发行1.78版本开始使用win11sdk </p>
+<p>rust这东西跟nm iphone一样 缺德</p>
+<p>最后是gnu版本下回来 再去下了13版本的mingw64 把之前的8版本删除了</p>
+<p>顺利编译运行</p>
+<p>出去跑步了</p>
+<p>跑2min休4min 有效恢复几个月没锻炼丢失的心肺能力</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025-01-06.</title>
     <url>/2025/01/06/2025-01-06/</url>
     <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
@@ -10,6 +30,21 @@
 <p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
 <p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
 <p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-01-07.</title>
+    <url>/2025/01/07/2025-01-07/</url>
+    <content><![CDATA[<p>九点起的床 今天天津省考公布成绩<br>果不其然 没进面 名单有33页 报名有五百多来着 两百多人没来啊<br>网站一直打不开<br>发现网站是index.do结尾<br>上网搜索起码十几年前的技术 无语了 怪不得每次都炸服</p>
+<p>中午将牛肚和了两个蘑菇切了了两个鸡蛋配米粉<br>今天腊八吃腊八蒜 爸腌制的成腊八蒜了 没什么味道</p>
+<p>rust入门了 教程太搞了 教到泛型就没课了<br>以后还需要深入学习</p>
+<p>撑不住了午睡 睡了两个半钟<br>有点爽但是头有点昏</p>
+<p>get到一个新网站 <a class="link"   href="https://aicolors.co/" >https://aicolors.co/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br>这网站的配色方案不错 就是ai味太浓了</p>
+<p>晚餐吃的牛肚 终于吃完了</p>
+<p>揪酱</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -32,53 +67,13 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-05.</title>
-    <url>/2025/01/05/2025-01-05/</url>
-    <content><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>十二点起床,煮了妈妈买的南昌拌粉,和妹妹一致认同,粉好吃</p>
-<p>把欠的字帖和单词写了</p>
-<p>晚餐把肉切了与豆豉鲢鱼、茄子一起焖了 好吃</p>
-<p>爸妈带了卤牛肚回来 味道不错 口感也不是很韧</p>
-<p>安装的rust的gnu居然不可用 卸了去安装mvsw版本的 要下vs 还要下win11的sdk</p>
-<p>好大的内存 上网发行1.78版本开始使用win11sdk </p>
-<p>rust这东西跟nm iphone一样 缺德</p>
-<p>最后是gnu版本下回来 再去下了13版本的mingw64 把之前的8版本删除了</p>
-<p>顺利编译运行</p>
-<p>出去跑步了</p>
-<p>跑2min休4min 有效恢复几个月没锻炼丢失的心肺能力</p>
-<p>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025-01-07.</title>
-    <url>/2025/01/07/2025-01-07/</url>
-    <content><![CDATA[<p>九点起的床 今天天津省考公布成绩<br>果不其然 没进面 名单有33页 报名有五百多来着 两百多人没来啊<br>网站一直打不开<br>发现网站是index.do结尾<br>上网搜索起码十几年前的技术 无语了 怪不得每次都炸服</p>
-<p>中午将牛肚和了两个蘑菇切了了两个鸡蛋配米粉<br>今天腊八吃腊八蒜 爸腌制的成腊八蒜了 没什么味道</p>
-<p>rust入门了 教程太搞了 教到泛型就没课了<br>以后还需要深入学习</p>
-<p>撑不住了午睡 睡了两个半钟<br>有点爽但是头有点昏</p>
-<p>get到一个新网站 <a class="link"   href="https://aicolors.co/" >https://aicolors.co/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br>这网站的配色方案不错 就是ai味太浓了</p>
-<p>晚餐吃的牛肚 终于吃完了</p>
-<p>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025-01-11.</title>
-    <url>/2025/01/11/2025-01-11/</url>
-    <content><![CDATA[<p>维生素d确实有用 早上没有睁不开眼了<br>虽然闭眼还是困</p>
-<p>躺到快十二点起 真不想起床 好烦</p>
-<p>中午依然番茄炒蛋</p>
-<p>quicker整了个批量打开选中链接的插件 修改一下更好用了</p>
-<p>下了个背duo分 现在有三个背单词软件 超级强制</p>
-<p>晚饭准备做藕海鲜菇炒猪肉 猪肉腌好了 藕和海鲜菇也焯水过了<br>菜心也洗完 削完皮了<br>结果爸妈一人带一饭盒回来 一个梅菜肉饼 一个冬笋藕炒肥猪肉<br>没办法猪肉放冰箱明天炒 藕海鲜菇凉拌<br>梅菜肉饼偏咸 冬笋藕炒猪肉好吃很有锅气 就是太油了</p>
-<p>把纸巾和药的柜子整理了一下</p>
-<p>去花街逛了逛 人不少但是店都没怎么开 只有卖小吃的</p>
-<p>没什么事就回家了 肚子也不饿 宵夜不用吃了</p>
-<p>今天的跑步是歇了<br>玩手机的习惯太难克制了 起床就在玩 躺在床上一下子就到中午</p>
+    <title>2025-01-09.</title>
+    <url>/2025/01/09/2025-01-09/</url>
+    <content><![CDATA[<p>今日不是很想起床 就赖床了</p>
+<p>中午点了华莱士 九块就有两鸡腿两汉堡和一瓶七喜<br>实惠</p>
+<p>什么都没做 刷了一天b站</p>
+<p>晚餐 芥兰炒猪肉 一斤的芥兰了<br>又炒了一斤多菜心 去壳花甲炒熟铺在上面<br>每天必有一碟青菜 绝了</p>
+<p>今天没出门 本来想跑步了<br>有点虚了</p>
 <p>揪酱</p>
 ]]></content>
       <tags>
@@ -108,20 +103,6 @@
 <p>晚餐 昨天的猪肉 加了点新买的椒盐 味道很不错<br>菜心 终于煮完菜心了 削皮真无聊</p>
 <p>纠正了跑姿 很快就跑不动了 感觉自己腾空能力不行</p>
 <p>试了下英雄联盟新模式 还是玩不来匹配 玩大乱斗就够了</p>
-<p>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025-01-09.</title>
-    <url>/2025/01/09/2025-01-09/</url>
-    <content><![CDATA[<p>今日不是很想起床 就赖床了</p>
-<p>中午点了华莱士 九块就有两鸡腿两汉堡和一瓶七喜<br>实惠</p>
-<p>什么都没做 刷了一天b站</p>
-<p>晚餐 芥兰炒猪肉 一斤的芥兰了<br>又炒了一斤多菜心 去壳花甲炒熟铺在上面<br>每天必有一碟青菜 绝了</p>
-<p>今天没出门 本来想跑步了<br>有点虚了</p>
 <p>揪酱</p>
 ]]></content>
       <tags>
@@ -164,6 +145,25 @@
       </tags>
   </entry>
   <entry>
+    <title>2025-01-11.</title>
+    <url>/2025/01/11/2025-01-11/</url>
+    <content><![CDATA[<p>维生素d确实有用 早上没有睁不开眼了<br>虽然闭眼还是困</p>
+<p>躺到快十二点起 真不想起床 好烦</p>
+<p>中午依然番茄炒蛋</p>
+<p>quicker整了个批量打开选中链接的插件 修改一下更好用了</p>
+<p>下了个背duo分 现在有三个背单词软件 超级强制</p>
+<p>晚饭准备做藕海鲜菇炒猪肉 猪肉腌好了 藕和海鲜菇也焯水过了<br>菜心也洗完 削完皮了<br>结果爸妈一人带一饭盒回来 一个梅菜肉饼 一个冬笋藕炒肥猪肉<br>没办法猪肉放冰箱明天炒 藕海鲜菇凉拌<br>梅菜肉饼偏咸 冬笋藕炒猪肉好吃很有锅气 就是太油了</p>
+<p>把纸巾和药的柜子整理了一下</p>
+<p>去花街逛了逛 人不少但是店都没怎么开 只有卖小吃的</p>
+<p>没什么事就回家了 肚子也不饿 宵夜不用吃了</p>
+<p>今天的跑步是歇了<br>玩手机的习惯太难克制了 起床就在玩 躺在床上一下子就到中午</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025-01-15.</title>
     <url>/2025/01/15/2025-01-15/</url>
     <content><![CDATA[<p>早上直接看了四个点B站 无敌了</p>
@@ -180,13 +180,15 @@
       </tags>
   </entry>
   <entry>
-    <title>hello hexo</title>
-    <url>/2025/01/03/hello-hexo/</url>
-    <content><![CDATA[<p>hello hexo</p>
+    <title>2025-01-16.</title>
+    <url>/2025/01/16/2025-01-16/</url>
+    <content><![CDATA[<p>或许早起 </p>
+<p>午餐 红豆面包加牛奶 老饱了</p>
+<p>今天有点感冒了 啥也没干</p>
+<p>晚餐 牛肚和菜心 怎么天天都是一样的</p>
+<p>木质diy直跳刀和折叠爪子刀到了<br>初中时老喜欢直跳刀了 袖剑老帅了</p>
+<p>揪酱</p>
 ]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
       <tags>
         <tag>日志</tag>
       </tags>
@@ -208,5 +210,17 @@
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>hello hexo</title>
+    <url>/2025/01/03/hello-hexo/</url>
+    <content><![CDATA[<p>hello hexo</p>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+      </tags>
   </entry>
 </search>
