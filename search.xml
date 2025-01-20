@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2025-01-06.</title>
-    <url>/2025/01/06/2025-01-06/</url>
-    <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
-<p>被清华源屏蔽了 无语死了 pip下不了东西<br>直接用多个镜像 哼哼</p>
-<p>学了一下午rust<br>rust的宏有点长 输入的方式有点复杂<br>控制语句比其他语言多了个match、loop<br>函数不用写return很简洁	<br>debug枚举和结构体需要额外写#[derive(Debug)]<br>rust没有class 结构体和方法单独设置<br>self有许多应用 这是python吗</p>
-<p>晚餐点了华莱士 两堡加美年达 八块<br>爽吃 还有带回来的 香芋西米露 恰饱饱</p>
-<p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
-<p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
-<p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2025-01-05.</title>
     <url>/2025/01/05/2025-01-05/</url>
     <content><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>十二点起床,煮了妈妈买的南昌拌粉,和妹妹一致认同,粉好吃</p>
@@ -30,6 +15,21 @@
 <p>出去跑步了</p>
 <p>跑2min休4min 有效恢复几个月没锻炼丢失的心肺能力</p>
 <p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-01-06.</title>
+    <url>/2025/01/06/2025-01-06/</url>
+    <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
+<p>被清华源屏蔽了 无语死了 pip下不了东西<br>直接用多个镜像 哼哼</p>
+<p>学了一下午rust<br>rust的宏有点长 输入的方式有点复杂<br>控制语句比其他语言多了个match、loop<br>函数不用写return很简洁	<br>debug枚举和结构体需要额外写#[derive(Debug)]<br>rust没有class 结构体和方法单独设置<br>self有许多应用 这是python吗</p>
+<p>晚餐点了华莱士 两堡加美年达 八块<br>爽吃 还有带回来的 香芋西米露 恰饱饱</p>
+<p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
+<p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
+<p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -147,6 +147,22 @@
       </tags>
   </entry>
   <entry>
+    <title>2025-01-15.</title>
+    <url>/2025/01/15/2025-01-15/</url>
+    <content><![CDATA[<p>早上直接看了四个点B站 无敌了</p>
+<p>午餐腊肠饭 好吃</p>
+<p>武装部发消息来说 脊柱侧弯 双眼视力不足4.5 脂肪肝<br>天塌了 怎么会脂肪肝 别的毛病都没有 该恢复锻炼了<br>不能是反弹吧 不能吧</p>
+<p>新衣服洗了晾了 碗消毒了 风扇拆洗了 nmd现在风扇扇叶真tm难拆<br>用了吹风机吹了一分钟才拆下来 感觉都要融化了</p>
+<p>晚餐 卤牛肚 没完没了了 炒菜心<br>牛肚没焖够时间 还有点硬 吃完饭又焖了十分钟 够软了</p>
+<p>鹿下课了约出去喝糖水 然后喝了祛湿凉茶 哈哈</p>
+<p>妈想吃鸡腿 点了两份华莱士 结果她就吃了两个鸡腿<br>剩下四个汉堡 两杯美年达 明天有的吃了</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025-01-14.</title>
     <url>/2025/01/14/2025-01-14/</url>
     <content><![CDATA[<p>今天去兵检 七点就起床了 早早的出门</p>
@@ -157,22 +173,6 @@
 <p>外公开摩托来接我了 午餐 淮山炒牛肚 清蒸虾  白菜<br>在外婆家待了一下午</p>
 <p>大伯下班回来捎上我去了三叔公家 今天是他的生日<br>亲戚都来了 被催找女朋友了<br>打边炉 牛腩 鸡 还有特别多的菜 菜心 茼蒿 豌豆尖</p>
 <p>你说抠鼻这表情包谁发明的<br>看见就不想继续回复了</p>
-<p>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025-01-15.</title>
-    <url>/2025/01/15/2025-01-15/</url>
-    <content><![CDATA[<p>早上直接看了四个点B站 无敌了</p>
-<p>午餐腊肠饭 好吃</p>
-<p>武装部发消息来说 脊柱侧弯 双眼视力不足4.5 脂肪肝<br>天塌了 怎么会脂肪肝 别的毛病都没有 该恢复锻炼了<br>不能是反弹吧 不能吧</p>
-<p>新衣服洗了晾了 碗消毒了 风扇拆洗了 nmd现在风扇扇叶真tm难拆<br>用了吹风机吹了一分钟才拆下来 感觉都要融化了</p>
-<p>晚餐 卤牛肚 没完没了了 炒菜心<br>牛肚没焖够时间 还有点硬 吃完饭又焖了十分钟 够软了</p>
-<p>鹿下课了约出去喝糖水 然后喝了祛湿凉茶 哈哈</p>
-<p>妈想吃鸡腿 点了两份华莱士 结果她就吃了两个鸡腿<br>剩下四个汉堡 两杯美年达 明天有的吃了</p>
 <p>揪酱</p>
 ]]></content>
       <tags>
@@ -194,6 +194,18 @@
       </tags>
   </entry>
   <entry>
+    <title>2025-01-18.</title>
+    <url>/2025/01/18/2025-01-18/</url>
+    <content><![CDATA[<p>早醒又昏过去了 </p>
+<p>午餐 番茄炒蛋</p>
+<p>晚餐 油麦菜 牛肚 又是牛肚 没完没了 崩溃了<br>处理一下午 有点忙</p>
+<p>答辩有点不小的问题 好在过了</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025-01-17.</title>
     <url>/2025/01/17/2025-01-17/</url>
     <content><![CDATA[<p>起早点 写论文 然后去接我妹了<br>本来想先去买菜再去接人的 想了想可能放不下</p>
@@ -208,18 +220,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-18.</title>
-    <url>/2025/01/18/2025-01-18/</url>
-    <content><![CDATA[<p>早醒又昏过去了 </p>
-<p>午餐 番茄炒蛋</p>
-<p>晚餐 油麦菜 牛肚 又是牛肚 没完没了 崩溃了<br>处理一下午 有点忙</p>
-<p>答辩有点不小的问题 好在过了</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2025-01-19.</title>
     <url>/2025/01/19/2025-01-19/</url>
     <content><![CDATA[<p>早期去吃了肠粉 还得是肠粉啊<br>去超市买了四个鸡腿 腌制了几小时</p>
@@ -228,6 +228,32 @@
 <p>吸顶灯到了 安装真麻烦 零火线太硬了<br>新买的灯亮了 旧的另一个微亮 无语了 应该买两个的</p>
 <p>晚餐 去吃黑龙饺子馆 其实算火锅 </p>
 <p>去逛花街 花街挺少 全都是美食街 人全在美食街<br>蔗打柠檬茶 味道不错</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hello hexo</title>
+    <url>/2025/01/03/hello-hexo/</url>
+    <content><![CDATA[<p>hello hexo</p>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-01-20.</title>
+    <url>/2025/01/20/2025-01-20/</url>
+    <content><![CDATA[<p>大懒逼! 十二点半起床<br>午餐 面香菇秋葵 一块全煮<br>收拾收拾就两点了</p>
+<p>记录书写着写着就五点了</p>
+<p>晚餐 牛排溏心蛋菜心芥兰套餐</p>
+<p>婆婆说手机充电到60充不进去<br>没什么事就去她家了<br>学着抖音整了好一会 不行<br>又学着把手机管家和服务清了<br>弄好了</p>
+<p>夜宵 螺蛳粉 臭豆腐 炸货<br>该减肥力</p>
 <p>揪酱</p>
 ]]></content>
       <tags>
@@ -251,17 +277,5 @@
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hello hexo</title>
-    <url>/2025/01/03/hello-hexo/</url>
-    <content><![CDATA[<p>hello hexo</p>
-]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
-      <tags>
-        <tag>日志</tag>
-      </tags>
   </entry>
 </search>
