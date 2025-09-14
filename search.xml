@@ -21,21 +21,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-06.</title>
-    <url>/2025/01/06/2025-01-06/</url>
-    <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
-<p>被清华源屏蔽了 无语死了 pip下不了东西<br>直接用多个镜像 哼哼</p>
-<p>学了一下午rust<br>rust的宏有点长 输入的方式有点复杂<br>控制语句比其他语言多了个match、loop<br>函数不用写return很简洁	<br>debug枚举和结构体需要额外写#[derive(Debug)]<br>rust没有class 结构体和方法单独设置<br>self有许多应用 这是python吗</p>
-<p>晚餐点了华莱士 两堡加美年达 八块<br>爽吃 还有带回来的 香芋西米露 恰饱饱</p>
-<p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
-<p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
-<p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2025-01-07.</title>
     <url>/2025/01/07/2025-01-07/</url>
     <content><![CDATA[<p>九点起的床 今天天津省考公布成绩<br>果不其然 没进面 名单有33页 报名有五百多来着 两百多人没来啊<br>网站一直打不开<br>发现网站是index.do结尾<br>上网搜索起码十几年前的技术 无语了 怪不得每次都炸服</p>
@@ -51,16 +36,15 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-08.</title>
-    <url>/2025/01/08/2025-01-08/</url>
-    <content><![CDATA[<p>失眠了 亢奋的很 就是睡不着<br>闭眼到三点快四点才睡着了</p>
-<p>炫和🦌call了几个电话过来<br>终于十二点前call醒了</p>
-<p>中午去吃的自助 叫老友作煮<br>说实话一般般 还卖七十多一位 有点亏了<br>只有水果让我感到满意 小番茄哈密瓜和橙子 都挺甜的</p>
-<p>吃完去逛了会吾悦广场 消消食</p>
-<p>回来去鹿家坐了会 玩了下炫的歌查德driver<br>灯效不错 音效还行 卡要抽属实抽象</p>
-<p>回家就开始有点头晕了 疑似中招了<br>其实感觉是着凉了 出门穿的不是很多</p>
-<p>晚餐 蘑菇炒猪肉 炒生菜<br>今晚的菜味道差点 可能是状态不佳</p>
-<p>早点歇了<br>揪酱</p>
+    <title>2025-01-06.</title>
+    <url>/2025/01/06/2025-01-06/</url>
+    <content><![CDATA[<p>差不多1点起床 把牛肚装了一碗炒热吃了 开始牙疼 好难受</p>
+<p>被清华源屏蔽了 无语死了 pip下不了东西<br>直接用多个镜像 哼哼</p>
+<p>学了一下午rust<br>rust的宏有点长 输入的方式有点复杂<br>控制语句比其他语言多了个match、loop<br>函数不用写return很简洁	<br>debug枚举和结构体需要额外写#[derive(Debug)]<br>rust没有class 结构体和方法单独设置<br>self有许多应用 这是python吗</p>
+<p>晚餐点了华莱士 两堡加美年达 八块<br>爽吃 还有带回来的 香芋西米露 恰饱饱</p>
+<p>九点二十二出去跑的步回来十点十几了 为啥呢 不懂</p>
+<p>酸菜鱼和牛肚 宵夜 配了瓶矿泉水 哈哈</p>
+<p>🦌说明天过来吃饭 该早起了<br>揪酱</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -81,16 +65,16 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-10.</title>
-    <url>/2025/01/10/2025-01-10/</url>
-    <content><![CDATA[<p>今天早起了 把每日任务做的差不多了</p>
-<p>检查了一下征兵报名 发现没有报上<br>把视力写上4.5报上了</p>
-<p>下午打电话来说下周二早上体检</p>
-<p>中午煮了番茄炒蛋</p>
-<p>把牛肚处理了放压力煲里压了半小时 终于不是硬邦邦的了</p>
-<p>开车去接了妹妹回家 </p>
-<p>晚上跑步和俯卧撑 酸痛</p>
-<p>揪酱</p>
+    <title>2025-01-08.</title>
+    <url>/2025/01/08/2025-01-08/</url>
+    <content><![CDATA[<p>失眠了 亢奋的很 就是睡不着<br>闭眼到三点快四点才睡着了</p>
+<p>炫和🦌call了几个电话过来<br>终于十二点前call醒了</p>
+<p>中午去吃的自助 叫老友作煮<br>说实话一般般 还卖七十多一位 有点亏了<br>只有水果让我感到满意 小番茄哈密瓜和橙子 都挺甜的</p>
+<p>吃完去逛了会吾悦广场 消消食</p>
+<p>回来去鹿家坐了会 玩了下炫的歌查德driver<br>灯效不错 音效还行 卡要抽属实抽象</p>
+<p>回家就开始有点头晕了 疑似中招了<br>其实感觉是着凉了 出门穿的不是很多</p>
+<p>晚餐 蘑菇炒猪肉 炒生菜<br>今晚的菜味道差点 可能是状态不佳</p>
+<p>早点歇了<br>揪酱</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -122,6 +106,22 @@
 <p>晚餐 昨天的猪肉 加了点新买的椒盐 味道很不错<br>菜心 终于煮完菜心了 削皮真无聊</p>
 <p>纠正了跑姿 很快就跑不动了 感觉自己腾空能力不行</p>
 <p>试了下英雄联盟新模式 还是玩不来匹配 玩大乱斗就够了</p>
+<p>揪酱</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-01-10.</title>
+    <url>/2025/01/10/2025-01-10/</url>
+    <content><![CDATA[<p>今天早起了 把每日任务做的差不多了</p>
+<p>检查了一下征兵报名 发现没有报上<br>把视力写上4.5报上了</p>
+<p>下午打电话来说下周二早上体检</p>
+<p>中午煮了番茄炒蛋</p>
+<p>把牛肚处理了放压力煲里压了半小时 终于不是硬邦邦的了</p>
+<p>开车去接了妹妹回家 </p>
+<p>晚上跑步和俯卧撑 酸痛</p>
 <p>揪酱</p>
 ]]></content>
       <tags>
@@ -180,6 +180,20 @@
       </tags>
   </entry>
   <entry>
+    <title>2025-01-17.</title>
+    <url>/2025/01/17/2025-01-17/</url>
+    <content><![CDATA[<p>起早点 写论文 然后去接我妹了<br>本来想先去买菜再去接人的 想了想可能放不下</p>
+<p>在校门口等了半小时多才见到人 说好带我进去帮忙搬东西的<br>无语了 行李拿回家后又去买菜</p>
+<p>午餐 奥尔良鸡腿 面 没腌制直接烤的 不是很入味</p>
+<p>ddl战神 嘻嘻</p>
+<p>晚餐 猪肉 菜心 又是菜心 两斤老菜心 再放一天都不能吃了</p>
+<p>吃了鼻炎药 早睡了</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2025-01-16.</title>
     <url>/2025/01/16/2025-01-16/</url>
     <content><![CDATA[<p>或许早起 </p>
@@ -194,14 +208,12 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-01-17.</title>
-    <url>/2025/01/17/2025-01-17/</url>
-    <content><![CDATA[<p>起早点 写论文 然后去接我妹了<br>本来想先去买菜再去接人的 想了想可能放不下</p>
-<p>在校门口等了半小时多才见到人 说好带我进去帮忙搬东西的<br>无语了 行李拿回家后又去买菜</p>
-<p>午餐 奥尔良鸡腿 面 没腌制直接烤的 不是很入味</p>
-<p>ddl战神 嘻嘻</p>
-<p>晚餐 猪肉 菜心 又是菜心 两斤老菜心 再放一天都不能吃了</p>
-<p>吃了鼻炎药 早睡了</p>
+    <title>2025-01-18.</title>
+    <url>/2025/01/18/2025-01-18/</url>
+    <content><![CDATA[<p>早醒又昏过去了 </p>
+<p>午餐 番茄炒蛋</p>
+<p>晚餐 油麦菜 牛肚 又是牛肚 没完没了 崩溃了<br>处理一下午 有点忙</p>
+<p>答辩有点不小的问题 好在过了</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -217,18 +229,6 @@
 <p>晚餐 去吃黑龙饺子馆 其实算火锅 </p>
 <p>去逛花街 花街挺少 全都是美食街 人全在美食街<br>蔗打柠檬茶 味道不错</p>
 <p>揪酱</p>
-]]></content>
-      <tags>
-        <tag>日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025-01-18.</title>
-    <url>/2025/01/18/2025-01-18/</url>
-    <content><![CDATA[<p>早醒又昏过去了 </p>
-<p>午餐 番茄炒蛋</p>
-<p>晚餐 油麦菜 牛肚 又是牛肚 没完没了 崩溃了<br>处理一下午 有点忙</p>
-<p>答辩有点不小的问题 好在过了</p>
 ]]></content>
       <tags>
         <tag>日志</tag>
@@ -258,6 +258,28 @@
       </tags>
   </entry>
   <entry>
+    <title>2025-09-14.</title>
+    <url>/2025/09/14/2025-09-14/</url>
+    <content><![CDATA[<p>vue3中<style>不加scoped的情况,同一个层次共用此域<br>若希望组件样式隔离（不影响其他组件），需为 <style> 添加 scoped</p>
+<p>在 Vue 中，<style> 标签的 scoped 属性用于限制样式的作用域，使其仅对当前组件的元素生效。若组件 a 的 <style> 未加 scoped，则它定义的 CSS 是全局生效的 —— 此时其他组件（如组件 b）的元素，只要类名（class）匹配，就能应用这些样式。<br>原理说明<br>无 scoped 时：CSS 是 “全局 CSS”，会作用于整个页面中所有匹配选择器的元素，不受组件边界限制。<br>有 scoped 时：Vue 会为当前组件的所有元素自动添加一个唯一的属性（如 data-v-xxx），同时 CSS 选择器也会带上这个属性（如 .class[data-v-xxx]），从而确保样式仅匹配当前组件的元素。</p>
+]]></content>
+      <tags>
+        <tag>日志,vue</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hello hexo</title>
+    <url>/2025/01/03/hello-hexo/</url>
+    <content><![CDATA[<p>hello hexo</p>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2025/01/03/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
@@ -274,17 +296,5 @@
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hello hexo</title>
-    <url>/2025/01/03/hello-hexo/</url>
-    <content><![CDATA[<p>hello hexo</p>
-]]></content>
-      <categories>
-        <category>Markdown</category>
-      </categories>
-      <tags>
-        <tag>日志</tag>
-      </tags>
   </entry>
 </search>
